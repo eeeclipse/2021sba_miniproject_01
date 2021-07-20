@@ -1,4 +1,10 @@
-# todoapp
-A simple django todoapp
+# SBA 2021 Python Mini Project
+A simple python project!
 
-![alt text](https://cdn.scotch.io/48695/GfJiMlY8QUSRxFAM4oiV_todhom.png)
+SBA Python Mininote
+
+7조 김현하 황수연 황유진 최지현
+
+
+
+
