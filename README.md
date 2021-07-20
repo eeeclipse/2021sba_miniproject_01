@@ -7,7 +7,7 @@ SBA Python Mininote
 
 ### Preview
 
-![figure_01](src\figure\figure_01.PNG)
+![figure_01](src/figure/figure_01.PNG)
 
 
 
